@@ -1,0 +1,6 @@
+в 4 лабе для поддержки гпу:
+python 3.10
+cuda_11.2.0_460.89_win10
+cudnn-11.2-windows-x64-v8.1.0.77
+tensorflow==2.10.1
+numpy==1.26.4
